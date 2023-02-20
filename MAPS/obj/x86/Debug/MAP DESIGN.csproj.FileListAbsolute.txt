@@ -1,0 +1,30 @@
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\Caster.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\Caster.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\bin\Debug\Caster.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\bin\Debug\Caster.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\MAP DESIGN.csprojResolveAssemblyReference.cache
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\Caster.MapDesigner.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\Caster.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\MAP DESIGN.csproj.GenerateResource.Cache
+\\Mac\iCloud\Downloads\MAPS\bin\Debug\Caster.exe.config
+\\Mac\iCloud\Downloads\MAPS\bin\Debug\Caster.exe
+\\Mac\iCloud\Downloads\MAPS\bin\Debug\Caster.pdb
+\\Mac\iCloud\Downloads\MAPS\obj\x86\Debug\MAP DESIGN.csproj.AssemblyReference.cache
+\\Mac\iCloud\Downloads\MAPS\obj\x86\Debug\MAP DESIGN.csproj.SuggestedBindingRedirects.cache
+\\Mac\iCloud\Downloads\MAPS\obj\x86\Debug\Caster.MapDesigner.resources
+\\Mac\iCloud\Downloads\MAPS\obj\x86\Debug\Caster.Properties.Resources.resources
+\\Mac\iCloud\Downloads\MAPS\obj\x86\Debug\MAP DESIGN.csproj.GenerateResource.cache
+\\Mac\iCloud\Downloads\MAPS\obj\x86\Debug\MAP DESIGN.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Downloads\MAPS\obj\x86\Debug\Caster.exe
+\\Mac\iCloud\Downloads\MAPS\obj\x86\Debug\Caster.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\bin\Debug\Caster.exe.config
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\bin\Debug\Caster.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\bin\Debug\Caster.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\obj\x86\Debug\MAP DESIGN.csproj.AssemblyReference.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\obj\x86\Debug\MAP DESIGN.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\obj\x86\Debug\Caster.MapDesigner.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\obj\x86\Debug\Caster.Properties.Resources.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\obj\x86\Debug\MAP DESIGN.csproj.GenerateResource.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\obj\x86\Debug\MAP DESIGN.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\obj\x86\Debug\Caster.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\MAPS\obj\x86\Debug\Caster.pdb
